@@ -1,7 +1,7 @@
 {
   "name": "hw-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. https://drive.google.com/file/d/1AVmb1of8p_beXn-kiwKjAoecBa4bWF0P/view?usp=sharing,\r 2. https://drive.google.com/file/d/1B6eY5_9U9tfmmk3b-JDiYM7kZ7Qgzyez/view?usp=sharing,\r 3. https://drive.google.com/file/d/1HnX6sE896PKx6sqlrir25WmhG4lZFcb-/view?usp=sharing,\r 4. https://drive.google.com/file/d/1pAHlEAo2bihtNmE4L7gkbqYg2soFSqwh/view?usp=sharing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,6 +22,6 @@
   "dependencies": {
     "commander": "^9.4.0",
     "nanoid": "^3.3.4",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.22"
   }
 }
